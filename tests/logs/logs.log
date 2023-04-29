@@ -1,0 +1,514 @@
+2020-06-25 09:11:37,277 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:58746
+2020-06-25 09:11:40,990 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:58746 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:11:43,458 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:58746 "POST /session/47d3cabad9e322264358a249a2c36054/url HTTP/1.1" 200 14
+2020-06-25 09:11:43,491 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:58746 "POST /session/47d3cabad9e322264358a249a2c36054/element HTTP/1.1" 200 88
+2020-06-25 09:11:43,596 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:58746 "POST /session/47d3cabad9e322264358a249a2c36054/element/53ebcd61-1138-4415-b5c4-67c9b5a2df82/click HTTP/1.1" 200 14
+2020-06-25 09:11:48,597 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:11:48,657 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:58746 "POST /session/47d3cabad9e322264358a249a2c36054/url HTTP/1.1" 200 14
+2020-06-25 09:11:48,675 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:58746 "POST /session/47d3cabad9e322264358a249a2c36054/element HTTP/1.1" 200 88
+2020-06-25 09:11:53,696 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:58746 "POST /session/47d3cabad9e322264358a249a2c36054/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:11:53,697 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:24:11,569 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59476
+2020-06-25 09:24:14,963 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:24:17,298 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session/6d9371656760828c77e704a3ad606c98/url HTTP/1.1" 200 14
+2020-06-25 09:24:17,328 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session/6d9371656760828c77e704a3ad606c98/element HTTP/1.1" 200 88
+2020-06-25 09:24:17,422 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session/6d9371656760828c77e704a3ad606c98/element/d679bc77-cfa2-4044-99f6-ef66f430d260/click HTTP/1.1" 200 14
+2020-06-25 09:24:22,443 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session/6d9371656760828c77e704a3ad606c98/element HTTP/1.1" 404 1069
+2020-06-25 09:24:22,457 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:24:22,539 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session/6d9371656760828c77e704a3ad606c98/url HTTP/1.1" 200 14
+2020-06-25 09:24:22,556 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session/6d9371656760828c77e704a3ad606c98/element HTTP/1.1" 200 88
+2020-06-25 09:24:27,577 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59476 "POST /session/6d9371656760828c77e704a3ad606c98/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:24:27,578 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:27:55,079 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59719
+2020-06-25 09:27:58,804 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:28:01,265 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session/67b7a5ad7cf1517da6da61599534ff9f/url HTTP/1.1" 200 14
+2020-06-25 09:28:01,284 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session/67b7a5ad7cf1517da6da61599534ff9f/element HTTP/1.1" 200 88
+2020-06-25 09:28:01,382 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session/67b7a5ad7cf1517da6da61599534ff9f/element/7af5c873-6beb-4810-aa17-bd2ed6c9d4d2/click HTTP/1.1" 200 14
+2020-06-25 09:28:06,400 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session/67b7a5ad7cf1517da6da61599534ff9f/element HTTP/1.1" 404 1085
+2020-06-25 09:28:06,408 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:28:06,462 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session/67b7a5ad7cf1517da6da61599534ff9f/url HTTP/1.1" 200 14
+2020-06-25 09:28:06,478 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session/67b7a5ad7cf1517da6da61599534ff9f/element HTTP/1.1" 200 88
+2020-06-25 09:28:11,498 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59719 "POST /session/67b7a5ad7cf1517da6da61599534ff9f/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:28:11,499 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:29:07,278 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59812
+2020-06-25 09:29:10,447 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:29:12,724 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session/b8ba0704cd1d68f0fe0c7b431edfe47b/url HTTP/1.1" 200 14
+2020-06-25 09:29:12,747 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session/b8ba0704cd1d68f0fe0c7b431edfe47b/element HTTP/1.1" 200 88
+2020-06-25 09:29:12,838 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session/b8ba0704cd1d68f0fe0c7b431edfe47b/element/3c3526a3-65cc-4fd7-9a09-5eb44bfd5aba/click HTTP/1.1" 200 14
+2020-06-25 09:29:17,856 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session/b8ba0704cd1d68f0fe0c7b431edfe47b/element HTTP/1.1" 404 1085
+2020-06-25 09:29:17,864 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:29:17,929 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session/b8ba0704cd1d68f0fe0c7b431edfe47b/url HTTP/1.1" 200 14
+2020-06-25 09:29:17,945 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session/b8ba0704cd1d68f0fe0c7b431edfe47b/element HTTP/1.1" 200 88
+2020-06-25 09:29:22,963 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59812 "POST /session/b8ba0704cd1d68f0fe0c7b431edfe47b/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:29:22,964 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:30:49,788 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:59936
+2020-06-25 09:30:52,833 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:30:55,183 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session/62be1d4c3b77a1e7be29f0b00ea9a374/url HTTP/1.1" 200 14
+2020-06-25 09:30:55,202 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session/62be1d4c3b77a1e7be29f0b00ea9a374/element HTTP/1.1" 200 88
+2020-06-25 09:30:55,287 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session/62be1d4c3b77a1e7be29f0b00ea9a374/element/e324cf11-5094-40fa-93e4-e6e819dd2cc5/click HTTP/1.1" 200 14
+2020-06-25 09:31:00,305 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session/62be1d4c3b77a1e7be29f0b00ea9a374/element HTTP/1.1" 404 1069
+2020-06-25 09:31:00,313 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:31:00,365 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session/62be1d4c3b77a1e7be29f0b00ea9a374/url HTTP/1.1" 200 14
+2020-06-25 09:31:00,380 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session/62be1d4c3b77a1e7be29f0b00ea9a374/element HTTP/1.1" 200 88
+2020-06-25 09:31:05,401 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:59936 "POST /session/62be1d4c3b77a1e7be29f0b00ea9a374/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:31:05,402 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:31:42,047 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60013
+2020-06-25 09:31:44,978 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:31:47,270 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session/532ca6e896c1c1957b07e4a11a48adeb/url HTTP/1.1" 200 14
+2020-06-25 09:31:47,289 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session/532ca6e896c1c1957b07e4a11a48adeb/element HTTP/1.1" 200 88
+2020-06-25 09:31:47,375 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session/532ca6e896c1c1957b07e4a11a48adeb/element/231df1e8-0e90-4009-9b0b-671cc25b3576/click HTTP/1.1" 200 14
+2020-06-25 09:31:52,396 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session/532ca6e896c1c1957b07e4a11a48adeb/element HTTP/1.1" 404 1050
+2020-06-25 09:31:52,404 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:31:52,473 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session/532ca6e896c1c1957b07e4a11a48adeb/url HTTP/1.1" 200 14
+2020-06-25 09:31:52,492 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session/532ca6e896c1c1957b07e4a11a48adeb/element HTTP/1.1" 200 88
+2020-06-25 09:31:57,515 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60013 "POST /session/532ca6e896c1c1957b07e4a11a48adeb/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:31:57,515 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:33:11,190 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60129
+2020-06-25 09:33:14,071 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session HTTP/1.1" 200 715
+2020-06-25 09:33:21,266 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session/f7045ce26f722388596dbb11bb7c39f6/url HTTP/1.1" 200 14
+2020-06-25 09:33:21,286 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session/f7045ce26f722388596dbb11bb7c39f6/element HTTP/1.1" 200 88
+2020-06-25 09:33:21,384 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session/f7045ce26f722388596dbb11bb7c39f6/element/38d1724e-8480-42b7-a816-295fec7c7cba/click HTTP/1.1" 200 14
+2020-06-25 09:33:36,402 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session/f7045ce26f722388596dbb11bb7c39f6/element HTTP/1.1" 404 1050
+2020-06-25 09:33:36,410 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:33:36,483 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session/f7045ce26f722388596dbb11bb7c39f6/url HTTP/1.1" 200 14
+2020-06-25 09:33:36,498 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session/f7045ce26f722388596dbb11bb7c39f6/element HTTP/1.1" 200 88
+2020-06-25 09:33:41,522 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60129 "POST /session/f7045ce26f722388596dbb11bb7c39f6/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:33:41,522 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:34:02,761 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60210
+2020-06-25 09:34:05,890 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:34:09,647 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session/9f0a2e3143886dfe1d3fa22b9d9ef7e1/url HTTP/1.1" 200 14
+2020-06-25 09:34:09,672 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session/9f0a2e3143886dfe1d3fa22b9d9ef7e1/element HTTP/1.1" 200 88
+2020-06-25 09:34:09,766 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session/9f0a2e3143886dfe1d3fa22b9d9ef7e1/element/f87e1dfe-ba3d-469a-8886-83fa885258f9/click HTTP/1.1" 200 14
+2020-06-25 09:34:24,786 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session/9f0a2e3143886dfe1d3fa22b9d9ef7e1/element HTTP/1.1" 404 1075
+2020-06-25 09:34:24,796 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:34:24,904 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session/9f0a2e3143886dfe1d3fa22b9d9ef7e1/url HTTP/1.1" 200 14
+2020-06-25 09:34:24,928 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session/9f0a2e3143886dfe1d3fa22b9d9ef7e1/element HTTP/1.1" 200 88
+2020-06-25 09:34:29,949 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60210 "POST /session/9f0a2e3143886dfe1d3fa22b9d9ef7e1/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:34:29,950 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:37:43,472 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60440
+2020-06-25 09:37:46,352 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:37:48,706 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session/a237f9b5038623367c6f2517ebcc15b7/url HTTP/1.1" 200 14
+2020-06-25 09:37:48,725 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session/a237f9b5038623367c6f2517ebcc15b7/element HTTP/1.1" 200 88
+2020-06-25 09:37:48,810 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session/a237f9b5038623367c6f2517ebcc15b7/element/b7139dda-0a43-4486-900b-f3393b799743/click HTTP/1.1" 200 14
+2020-06-25 09:38:03,827 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session/a237f9b5038623367c6f2517ebcc15b7/element HTTP/1.1" 404 1077
+2020-06-25 09:38:03,834 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:38:03,894 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session/a237f9b5038623367c6f2517ebcc15b7/url HTTP/1.1" 200 14
+2020-06-25 09:38:03,911 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session/a237f9b5038623367c6f2517ebcc15b7/element HTTP/1.1" 200 88
+2020-06-25 09:38:08,932 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60440 "POST /session/a237f9b5038623367c6f2517ebcc15b7/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:38:08,932 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:38:44,963 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60528
+2020-06-25 09:38:47,875 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:38:54,379 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session/3dfb9c96d048f5ab1d9ed402b5141588/url HTTP/1.1" 200 14
+2020-06-25 09:38:54,398 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session/3dfb9c96d048f5ab1d9ed402b5141588/element HTTP/1.1" 200 88
+2020-06-25 09:38:54,484 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session/3dfb9c96d048f5ab1d9ed402b5141588/element/42dc9be7-1011-4b7a-a94b-94d0590b4a40/click HTTP/1.1" 200 14
+2020-06-25 09:39:09,502 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session/3dfb9c96d048f5ab1d9ed402b5141588/element HTTP/1.1" 404 1073
+2020-06-25 09:39:09,510 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:39:09,566 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session/3dfb9c96d048f5ab1d9ed402b5141588/url HTTP/1.1" 200 14
+2020-06-25 09:39:09,583 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session/3dfb9c96d048f5ab1d9ed402b5141588/element HTTP/1.1" 200 88
+2020-06-25 09:39:14,604 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60528 "POST /session/3dfb9c96d048f5ab1d9ed402b5141588/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:39:14,604 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:41:52,544 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60732
+2020-06-25 09:41:55,581 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:41:57,924 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session/ad7eb8b703bad65463fdea0fc763bfe7/url HTTP/1.1" 200 14
+2020-06-25 09:41:57,943 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session/ad7eb8b703bad65463fdea0fc763bfe7/element HTTP/1.1" 200 88
+2020-06-25 09:41:58,045 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session/ad7eb8b703bad65463fdea0fc763bfe7/element/8e2c0061-9af5-4525-be40-7ce777748e64/click HTTP/1.1" 200 14
+2020-06-25 09:42:13,062 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session/ad7eb8b703bad65463fdea0fc763bfe7/element HTTP/1.1" 404 1095
+2020-06-25 09:42:13,070 [pp_login_page_tests.test_login_pp]: - INFO - start of test_login_pp 
+2020-06-25 09:42:13,128 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session/ad7eb8b703bad65463fdea0fc763bfe7/url HTTP/1.1" 200 14
+2020-06-25 09:42:13,145 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session/ad7eb8b703bad65463fdea0fc763bfe7/element HTTP/1.1" 200 88
+2020-06-25 09:42:18,167 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60732 "POST /session/ad7eb8b703bad65463fdea0fc763bfe7/execute/sync HTTP/1.1" 200 14
+2020-06-25 09:42:18,167 [pp_login_page_tests.test_login_pp]: - INFO - end of test_login_pp
+2020-06-25 09:45:30,665 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60983
+2020-06-25 09:45:33,721 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60983 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:45:35,952 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60983 "POST /session/a6b73a6d0eb7d7895cf068e9b1522679/url HTTP/1.1" 200 14
+2020-06-25 09:45:35,974 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60983 "POST /session/a6b73a6d0eb7d7895cf068e9b1522679/element HTTP/1.1" 200 88
+2020-06-25 09:45:36,068 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60983 "POST /session/a6b73a6d0eb7d7895cf068e9b1522679/element/e1ca5f75-fb43-4917-889f-babe017ad209/click HTTP/1.1" 200 14
+2020-06-25 09:45:41,087 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60983 "POST /session/a6b73a6d0eb7d7895cf068e9b1522679/element HTTP/1.1" 404 1095
+2020-06-25 09:47:13,777 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61149
+2020-06-25 09:47:16,979 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61149 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:47:19,261 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61149 "POST /session/e663625b6e10df15ae20fb0da0b26adc/url HTTP/1.1" 200 14
+2020-06-25 09:47:19,295 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61149 "POST /session/e663625b6e10df15ae20fb0da0b26adc/element HTTP/1.1" 200 88
+2020-06-25 09:47:19,391 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61149 "POST /session/e663625b6e10df15ae20fb0da0b26adc/element/93db1b55-7cff-4d8e-86d0-a95425671e37/click HTTP/1.1" 200 14
+2020-06-25 09:47:24,415 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61149 "POST /session/e663625b6e10df15ae20fb0da0b26adc/element HTTP/1.1" 404 1075
+2020-06-25 09:47:53,030 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61261
+2020-06-25 09:47:56,029 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61261 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:47:58,334 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61261 "POST /session/711da41adc6864d4313ee495ccf8ced0/url HTTP/1.1" 200 14
+2020-06-25 09:47:58,354 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61261 "POST /session/711da41adc6864d4313ee495ccf8ced0/element HTTP/1.1" 200 88
+2020-06-25 09:47:58,449 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61261 "POST /session/711da41adc6864d4313ee495ccf8ced0/element/9c32f3e9-16cc-4ef4-92ba-75adbcff777a/click HTTP/1.1" 200 14
+2020-06-25 09:48:18,476 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61261 "POST /session/711da41adc6864d4313ee495ccf8ced0/element HTTP/1.1" 404 1075
+2020-06-25 09:49:42,529 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61555
+2020-06-25 09:49:46,278 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61555 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:49:48,512 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61555 "POST /session/9e346372e92dec5d0992056f04b153f9/url HTTP/1.1" 200 14
+2020-06-25 09:49:48,532 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61555 "POST /session/9e346372e92dec5d0992056f04b153f9/element HTTP/1.1" 200 88
+2020-06-25 09:49:48,633 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61555 "POST /session/9e346372e92dec5d0992056f04b153f9/element/de9b257d-dac2-432c-9f04-4d9ec96df5d3/click HTTP/1.1" 200 14
+2020-06-25 09:50:03,650 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61555 "POST /session/9e346372e92dec5d0992056f04b153f9/element HTTP/1.1" 404 1056
+2020-06-25 09:51:39,172 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:61790
+2020-06-25 09:51:42,335 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61790 "POST /session HTTP/1.1" 200 717
+2020-06-25 09:51:44,600 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61790 "POST /session/b4507dec12ebfbdff6b6f2c1e529fe95/url HTTP/1.1" 200 14
+2020-06-25 09:51:44,623 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61790 "POST /session/b4507dec12ebfbdff6b6f2c1e529fe95/element HTTP/1.1" 200 88
+2020-06-25 09:51:44,707 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61790 "POST /session/b4507dec12ebfbdff6b6f2c1e529fe95/element/f73e2adb-68e1-4a27-9d24-86cea8fbaca6/click HTTP/1.1" 200 14
+2020-06-25 09:51:59,724 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:61790 "POST /session/b4507dec12ebfbdff6b6f2c1e529fe95/element HTTP/1.1" 200 88
+2020-06-25 09:55:53,326 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62305
+2020-06-25 09:55:56,335 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62305 "POST /session HTTP/1.1" 200 716
+2020-06-25 09:56:03,919 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62305 "POST /session/0f4a76935ce6f573c6cdad0c4382acfe/url HTTP/1.1" 200 14
+2020-06-25 09:56:03,941 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62305 "POST /session/0f4a76935ce6f573c6cdad0c4382acfe/element HTTP/1.1" 200 88
+2020-06-25 09:56:04,027 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62305 "POST /session/0f4a76935ce6f573c6cdad0c4382acfe/element/66d89707-33ab-4210-bbdf-e2fe170f81bc/click HTTP/1.1" 200 14
+2020-06-25 09:56:19,033 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62305 "GET /session/0f4a76935ce6f573c6cdad0c4382acfe/window/handles HTTP/1.1" 200 99
+2020-06-25 09:56:19,042 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62305 "POST /session/0f4a76935ce6f573c6cdad0c4382acfe/window HTTP/1.1" 200 14
+2020-06-25 09:56:25,075 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62305 "POST /session/0f4a76935ce6f573c6cdad0c4382acfe/element HTTP/1.1" 404 1095
+2020-06-25 09:57:08,732 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62406
+2020-06-25 09:57:11,610 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "POST /session HTTP/1.1" 200 715
+2020-06-25 09:57:13,932 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "POST /session/7e9e466c9bcc53b8589bebd8cdf70aa8/url HTTP/1.1" 200 14
+2020-06-25 09:57:13,953 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "POST /session/7e9e466c9bcc53b8589bebd8cdf70aa8/element HTTP/1.1" 200 88
+2020-06-25 09:57:14,045 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "POST /session/7e9e466c9bcc53b8589bebd8cdf70aa8/element/4c7d8d83-7071-4867-a402-1d94ad2f8083/click HTTP/1.1" 200 14
+2020-06-25 09:57:29,049 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "GET /session/7e9e466c9bcc53b8589bebd8cdf70aa8/window/handles HTTP/1.1" 200 99
+2020-06-25 09:57:29,058 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "POST /session/7e9e466c9bcc53b8589bebd8cdf70aa8/window HTTP/1.1" 200 14
+2020-06-25 09:57:29,062 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "GET /session/7e9e466c9bcc53b8589bebd8cdf70aa8/window/handles HTTP/1.1" 200 99
+2020-06-25 09:57:35,092 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62406 "POST /session/7e9e466c9bcc53b8589bebd8cdf70aa8/element HTTP/1.1" 404 1095
+2020-06-25 09:58:50,641 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62544
+2020-06-25 09:58:53,985 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62544 "POST /session HTTP/1.1" 200 715
+2020-06-25 09:58:57,790 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62544 "POST /session/a258bfc69edb62d74a65cb012f1818fd/url HTTP/1.1" 200 14
+2020-06-25 09:58:57,820 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62544 "POST /session/a258bfc69edb62d74a65cb012f1818fd/element HTTP/1.1" 200 88
+2020-06-25 09:58:57,935 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62544 "POST /session/a258bfc69edb62d74a65cb012f1818fd/element/2e937379-608d-4fdb-9efa-f81f8ab91672/click HTTP/1.1" 200 14
+2020-06-25 09:59:12,936 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62544 "GET /session/a258bfc69edb62d74a65cb012f1818fd/window HTTP/1.1" 200 53
+2020-06-25 09:59:12,985 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62544 "POST /session/a258bfc69edb62d74a65cb012f1818fd/window HTTP/1.1" 200 14
+2020-06-25 09:59:13,019 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62544 "POST /session/a258bfc69edb62d74a65cb012f1818fd/element HTTP/1.1" 404 1095
+2020-06-25 10:00:20,271 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62709
+2020-06-25 10:00:23,275 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62709 "POST /session HTTP/1.1" 200 716
+2020-06-25 10:00:28,214 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62709 "POST /session/2843fd82147cf376bd5695079a03dfca/url HTTP/1.1" 200 14
+2020-06-25 10:00:28,239 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62709 "POST /session/2843fd82147cf376bd5695079a03dfca/element HTTP/1.1" 200 88
+2020-06-25 10:00:28,358 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62709 "POST /session/2843fd82147cf376bd5695079a03dfca/element/08b3f6e4-c1e5-4f98-9614-a31e7689e1f1/click HTTP/1.1" 200 14
+2020-06-25 10:00:43,360 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62709 "GET /session/2843fd82147cf376bd5695079a03dfca/window HTTP/1.1" 200 53
+2020-06-25 10:00:43,409 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62709 "POST /session/2843fd82147cf376bd5695079a03dfca/window HTTP/1.1" 200 14
+2020-06-25 10:00:43,435 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62709 "POST /session/2843fd82147cf376bd5695079a03dfca/element HTTP/1.1" 200 88
+2020-06-25 10:01:09,098 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62817
+2020-06-25 10:01:14,111 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:01:23,478 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "POST /session/6f1c20041684abf4ef3ce3c485850856/url HTTP/1.1" 200 14
+2020-06-25 10:01:23,511 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "POST /session/6f1c20041684abf4ef3ce3c485850856/element HTTP/1.1" 200 88
+2020-06-25 10:01:23,684 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "POST /session/6f1c20041684abf4ef3ce3c485850856/element/52967634-b9c4-4d0e-b130-82310c83a36d/click HTTP/1.1" 200 14
+2020-06-25 10:01:38,687 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "GET /session/6f1c20041684abf4ef3ce3c485850856/window HTTP/1.1" 200 53
+2020-06-25 10:01:38,709 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "POST /session/6f1c20041684abf4ef3ce3c485850856/window HTTP/1.1" 200 14
+2020-06-25 10:01:38,744 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "POST /session/6f1c20041684abf4ef3ce3c485850856/element HTTP/1.1" 200 88
+2020-06-25 10:01:38,849 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62817 "POST /session/6f1c20041684abf4ef3ce3c485850856/element/a2a05248-4081-44de-8780-2d7d99aee725/click HTTP/1.1" 200 14
+2020-06-25 10:02:30,434 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63013
+2020-06-25 10:02:35,276 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:02:42,456 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "POST /session/550474de803c9e3191421b1776a27957/url HTTP/1.1" 200 14
+2020-06-25 10:02:42,477 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "POST /session/550474de803c9e3191421b1776a27957/element HTTP/1.1" 200 88
+2020-06-25 10:02:42,570 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "POST /session/550474de803c9e3191421b1776a27957/element/a6ea1869-36a1-4df2-aee3-fc8a52da65eb/click HTTP/1.1" 200 14
+2020-06-25 10:02:57,573 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "GET /session/550474de803c9e3191421b1776a27957/window HTTP/1.1" 200 53
+2020-06-25 10:02:57,602 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "POST /session/550474de803c9e3191421b1776a27957/window HTTP/1.1" 200 14
+2020-06-25 10:02:59,621 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "POST /session/550474de803c9e3191421b1776a27957/element HTTP/1.1" 200 88
+2020-06-25 10:02:59,710 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63013 "POST /session/550474de803c9e3191421b1776a27957/element/541c0ced-a065-488d-a1fa-feb61b0d4b11/click HTTP/1.1" 200 14
+2020-06-25 10:05:33,517 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63382
+2020-06-25 10:05:38,001 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63382 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:05:40,243 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63382 "POST /session/58577aa62a38af2ee458160a9e313d8e/url HTTP/1.1" 200 14
+2020-06-25 10:05:40,265 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63382 "POST /session/58577aa62a38af2ee458160a9e313d8e/element HTTP/1.1" 200 88
+2020-06-25 10:05:40,355 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63382 "POST /session/58577aa62a38af2ee458160a9e313d8e/element/a994ebdd-1822-4fe0-b0d7-b3620d300351/click HTTP/1.1" 200 14
+2020-06-25 10:05:55,365 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63382 "GET /session/58577aa62a38af2ee458160a9e313d8e/element/active HTTP/1.1" 200 88
+2020-06-25 10:05:57,384 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63382 "POST /session/58577aa62a38af2ee458160a9e313d8e/element HTTP/1.1" 404 1095
+2020-06-25 10:07:52,545 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63647
+2020-06-25 10:07:56,967 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:08:06,047 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/url HTTP/1.1" 200 14
+2020-06-25 10:08:06,068 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/element HTTP/1.1" 200 88
+2020-06-25 10:08:06,163 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/element/b932d27a-8efe-4084-8e29-8192e3d3f916/click HTTP/1.1" 200 14
+2020-06-25 10:08:21,165 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "GET /session/3f0615617ced7bc1888f73f5b7872e73/window HTTP/1.1" 200 53
+2020-06-25 10:08:22,190 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/window HTTP/1.1" 404 866
+2020-06-25 10:08:22,192 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "GET /session/3f0615617ced7bc1888f73f5b7872e73/window HTTP/1.1" 200 53
+2020-06-25 10:08:22,213 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "GET /session/3f0615617ced7bc1888f73f5b7872e73/window/handles HTTP/1.1" 200 99
+2020-06-25 10:08:22,232 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/window HTTP/1.1" 200 14
+2020-06-25 10:08:22,255 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/execute/sync HTTP/1.1" 200 12
+2020-06-25 10:08:22,279 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/window HTTP/1.1" 200 14
+2020-06-25 10:08:22,300 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/execute/sync HTTP/1.1" 200 12
+2020-06-25 10:08:22,325 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63647 "POST /session/3f0615617ced7bc1888f73f5b7872e73/window HTTP/1.1" 200 14
+2020-06-25 10:09:03,001 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63808
+2020-06-25 10:09:07,639 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:09:12,432 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "POST /session/4e0862d7e83b33dd41936e4df2cd6e2d/url HTTP/1.1" 200 14
+2020-06-25 10:09:12,455 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "POST /session/4e0862d7e83b33dd41936e4df2cd6e2d/element HTTP/1.1" 200 88
+2020-06-25 10:09:12,554 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "POST /session/4e0862d7e83b33dd41936e4df2cd6e2d/element/57debb63-a499-412f-bb5e-82a77a1b00b0/click HTTP/1.1" 200 14
+2020-06-25 10:09:27,556 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "GET /session/4e0862d7e83b33dd41936e4df2cd6e2d/window HTTP/1.1" 200 53
+2020-06-25 10:09:27,581 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "POST /session/4e0862d7e83b33dd41936e4df2cd6e2d/window HTTP/1.1" 200 14
+2020-06-25 10:09:29,602 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "POST /session/4e0862d7e83b33dd41936e4df2cd6e2d/element HTTP/1.1" 200 88
+2020-06-25 10:09:29,692 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63808 "POST /session/4e0862d7e83b33dd41936e4df2cd6e2d/element/813189ab-b174-4f26-801d-c2fd3ae4540b/click HTTP/1.1" 200 14
+2020-06-25 10:10:58,053 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63981
+2020-06-25 10:11:02,753 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session HTTP/1.1" 200 716
+2020-06-25 10:11:12,450 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session/4aade7244c6394ee82184b82bb32c550/url HTTP/1.1" 200 14
+2020-06-25 10:11:12,473 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session/4aade7244c6394ee82184b82bb32c550/element HTTP/1.1" 200 88
+2020-06-25 10:11:12,553 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session/4aade7244c6394ee82184b82bb32c550/element/4550c436-b118-4de7-98aa-1f63dcc4fa8c/click HTTP/1.1" 200 14
+2020-06-25 10:11:22,560 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "GET /session/4aade7244c6394ee82184b82bb32c550/window HTTP/1.1" 200 53
+2020-06-25 10:11:22,625 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session/4aade7244c6394ee82184b82bb32c550/window HTTP/1.1" 200 14
+2020-06-25 10:11:24,646 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session/4aade7244c6394ee82184b82bb32c550/element HTTP/1.1" 200 88
+2020-06-25 10:11:24,734 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session/4aade7244c6394ee82184b82bb32c550/element/b20d9b98-48d5-4a9b-9fb9-5d8dccd5cab6/click HTTP/1.1" 200 14
+2020-06-25 10:11:24,739 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "GET /session/4aade7244c6394ee82184b82bb32c550/window/handles HTTP/1.1" 200 143
+2020-06-25 10:11:24,767 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63981 "POST /session/4aade7244c6394ee82184b82bb32c550/window HTTP/1.1" 200 14
+2020-06-25 10:13:16,257 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64145
+2020-06-25 10:13:20,296 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64145 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:13:28,359 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64145 "POST /session/41dcff4a8bc86e7bb3fa8ab567ee5627/url HTTP/1.1" 200 14
+2020-06-25 10:13:28,389 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64145 "POST /session/41dcff4a8bc86e7bb3fa8ab567ee5627/element HTTP/1.1" 200 88
+2020-06-25 10:13:28,519 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64145 "POST /session/41dcff4a8bc86e7bb3fa8ab567ee5627/element/1cefab03-743d-4024-ade3-bc65fd4822a9/click HTTP/1.1" 200 14
+2020-06-25 10:13:33,524 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64145 "GET /session/41dcff4a8bc86e7bb3fa8ab567ee5627/window/handles HTTP/1.1" 200 99
+2020-06-25 10:13:33,534 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64145 "POST /session/41dcff4a8bc86e7bb3fa8ab567ee5627/window HTTP/1.1" 200 14
+2020-06-25 10:14:25,759 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64145 "POST /session/41dcff4a8bc86e7bb3fa8ab567ee5627/element HTTP/1.1" 404 1095
+2020-06-25 10:15:23,064 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64303
+2020-06-25 10:15:26,090 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "POST /session HTTP/1.1" 200 715
+2020-06-25 10:15:28,531 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "POST /session/28d0922f454f92498beff628b05ffc57/url HTTP/1.1" 200 14
+2020-06-25 10:15:28,555 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "POST /session/28d0922f454f92498beff628b05ffc57/element HTTP/1.1" 200 88
+2020-06-25 10:15:28,645 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "POST /session/28d0922f454f92498beff628b05ffc57/element/12d15691-75c7-48bf-a84b-34b7b639ab0a/click HTTP/1.1" 200 14
+2020-06-25 10:15:33,651 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "GET /session/28d0922f454f92498beff628b05ffc57/window/handles HTTP/1.1" 200 99
+2020-06-25 10:15:33,659 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "POST /session/28d0922f454f92498beff628b05ffc57/window HTTP/1.1" 200 14
+2020-06-25 10:15:34,702 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "POST /session/28d0922f454f92498beff628b05ffc57/element HTTP/1.1" 404 1060
+2020-06-25 10:15:34,744 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64303 "DELETE /session/28d0922f454f92498beff628b05ffc57/window HTTP/1.1" 200 55
+2020-06-25 10:16:33,929 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64409
+2020-06-25 10:16:37,432 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:16:40,404 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "POST /session/4edeb7cdd92441bf14cd4f4b13562a8e/url HTTP/1.1" 200 14
+2020-06-25 10:16:40,444 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "POST /session/4edeb7cdd92441bf14cd4f4b13562a8e/element HTTP/1.1" 200 88
+2020-06-25 10:16:40,587 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "POST /session/4edeb7cdd92441bf14cd4f4b13562a8e/element/302f714f-4259-40a3-885c-243ed6e576b4/click HTTP/1.1" 200 14
+2020-06-25 10:16:45,591 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "GET /session/4edeb7cdd92441bf14cd4f4b13562a8e/window/handles HTTP/1.1" 200 99
+2020-06-25 10:16:45,599 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "POST /session/4edeb7cdd92441bf14cd4f4b13562a8e/window HTTP/1.1" 200 14
+2020-06-25 10:16:49,646 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "POST /session/4edeb7cdd92441bf14cd4f4b13562a8e/element HTTP/1.1" 404 1095
+2020-06-25 10:16:49,685 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64409 "DELETE /session/4edeb7cdd92441bf14cd4f4b13562a8e/window HTTP/1.1" 200 55
+2020-06-25 10:18:39,459 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64599
+2020-06-25 10:18:42,698 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:18:50,010 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/url HTTP/1.1" 200 14
+2020-06-25 10:18:50,032 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/element HTTP/1.1" 200 88
+2020-06-25 10:18:50,124 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/element/71eefbd9-a1d5-47c5-bdb6-019a6f3beee6/click HTTP/1.1" 200 14
+2020-06-25 10:19:00,126 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "GET /session/2867267e08f45a315891b2ee0dcfce89/window HTTP/1.1" 200 53
+2020-06-25 10:19:00,151 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/window HTTP/1.1" 200 14
+2020-06-25 10:19:02,169 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/element HTTP/1.1" 200 88
+2020-06-25 10:19:02,254 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/element/49235688-0461-4304-8e65-b0a256df3697/click HTTP/1.1" 200 14
+2020-06-25 10:19:02,258 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "GET /session/2867267e08f45a315891b2ee0dcfce89/window/handles HTTP/1.1" 200 143
+2020-06-25 10:19:02,287 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/window HTTP/1.1" 200 14
+2020-06-25 10:19:08,346 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "DELETE /session/2867267e08f45a315891b2ee0dcfce89/window HTTP/1.1" 200 99
+2020-06-25 10:19:08,352 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "POST /session/2867267e08f45a315891b2ee0dcfce89/url HTTP/1.1" 404 1000
+2020-06-25 10:19:08,362 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64599 "DELETE /session/2867267e08f45a315891b2ee0dcfce89/window HTTP/1.1" 404 1000
+2020-06-25 10:21:24,854 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64802
+2020-06-25 10:21:28,076 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session HTTP/1.1" 200 715
+2020-06-25 10:21:30,546 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/url HTTP/1.1" 200 14
+2020-06-25 10:21:30,569 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/element HTTP/1.1" 200 88
+2020-06-25 10:21:30,651 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/element/84865af1-0f4f-46a2-a56e-9c444c422172/click HTTP/1.1" 200 14
+2020-06-25 10:21:40,654 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "GET /session/f6ac22b06d3717a29c697480d7c70acd/window HTTP/1.1" 200 53
+2020-06-25 10:21:40,677 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/window HTTP/1.1" 200 14
+2020-06-25 10:21:42,695 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/element HTTP/1.1" 200 88
+2020-06-25 10:21:42,783 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/element/2d0f67d7-99a7-4d6e-823e-76c5d4ff5ecb/click HTTP/1.1" 200 14
+2020-06-25 10:21:42,819 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "GET /session/f6ac22b06d3717a29c697480d7c70acd/window/handles HTTP/1.1" 200 143
+2020-06-25 10:21:42,899 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/window HTTP/1.1" 200 14
+2020-06-25 10:21:49,133 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/url HTTP/1.1" 200 14
+2020-06-25 10:21:49,159 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/element HTTP/1.1" 200 88
+2020-06-25 10:21:49,243 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64802 "POST /session/f6ac22b06d3717a29c697480d7c70acd/element/71cf31ad-a388-47b5-905a-35109b80fe91/click HTTP/1.1" 200 14
+2020-06-25 10:22:38,344 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:64899
+2020-06-25 10:22:41,313 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:22:43,635 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/url HTTP/1.1" 200 14
+2020-06-25 10:22:43,659 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/element HTTP/1.1" 200 88
+2020-06-25 10:22:43,744 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/element/3632ad3b-2943-483f-a511-dd2d582470fb/click HTTP/1.1" 200 14
+2020-06-25 10:22:53,746 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "GET /session/82bf24bd158e16236b350a64b8ce85fa/window HTTP/1.1" 200 53
+2020-06-25 10:22:53,770 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/window HTTP/1.1" 200 14
+2020-06-25 10:22:55,790 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/element HTTP/1.1" 200 88
+2020-06-25 10:22:55,876 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/element/7d2a514a-06fa-483a-8d97-9e79cb40e577/click HTTP/1.1" 200 14
+2020-06-25 10:22:55,881 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "GET /session/82bf24bd158e16236b350a64b8ce85fa/window/handles HTTP/1.1" 200 143
+2020-06-25 10:22:55,929 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/window HTTP/1.1" 200 14
+2020-06-25 10:23:00,930 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 10:23:02,199 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/url HTTP/1.1" 200 14
+2020-06-25 10:23:02,220 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/element HTTP/1.1" 200 88
+2020-06-25 10:23:07,238 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:64899 "POST /session/82bf24bd158e16236b350a64b8ce85fa/execute/sync HTTP/1.1" 200 14
+2020-06-25 10:23:07,238 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2020-06-25 10:23:43,594 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:65018
+2020-06-25 10:23:46,659 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:23:56,720 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/url HTTP/1.1" 200 14
+2020-06-25 10:23:56,740 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/element HTTP/1.1" 200 88
+2020-06-25 10:23:56,835 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/element/b599c2db-e713-4ded-863c-7ba114d2edbc/click HTTP/1.1" 200 14
+2020-06-25 10:24:06,838 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "GET /session/ed5987aed6435f5b907561eeea0a432e/window HTTP/1.1" 200 53
+2020-06-25 10:24:06,875 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/window HTTP/1.1" 200 14
+2020-06-25 10:24:09,272 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/element HTTP/1.1" 200 88
+2020-06-25 10:24:09,358 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/element/230f722a-2e12-4289-9d8a-4c246230cc0a/click HTTP/1.1" 200 14
+2020-06-25 10:24:09,362 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "GET /session/ed5987aed6435f5b907561eeea0a432e/window/handles HTTP/1.1" 200 143
+2020-06-25 10:24:09,419 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/window HTTP/1.1" 200 14
+2020-06-25 10:24:15,472 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "DELETE /session/ed5987aed6435f5b907561eeea0a432e/window HTTP/1.1" 200 99
+2020-06-25 10:24:15,475 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 10:24:15,478 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "POST /session/ed5987aed6435f5b907561eeea0a432e/url HTTP/1.1" 404 1000
+2020-06-25 10:24:15,484 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65018 "DELETE /session/ed5987aed6435f5b907561eeea0a432e/window HTTP/1.1" 404 1000
+2020-06-25 10:25:02,347 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:65132
+2020-06-25 10:25:05,716 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:25:14,165 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/url HTTP/1.1" 200 14
+2020-06-25 10:25:14,184 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/element HTTP/1.1" 200 88
+2020-06-25 10:25:14,278 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/element/cd4cbe2b-9ba3-4c6c-a512-a2de605c5ec1/click HTTP/1.1" 200 14
+2020-06-25 10:25:24,282 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "GET /session/7e354a844b6fdac6fec820ad0cb79cf4/window HTTP/1.1" 200 53
+2020-06-25 10:25:24,335 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/window HTTP/1.1" 200 14
+2020-06-25 10:25:26,358 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/element HTTP/1.1" 200 88
+2020-06-25 10:25:26,451 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/element/94a0d042-23c1-40ea-8481-0a34e4d427e5/click HTTP/1.1" 200 14
+2020-06-25 10:25:26,456 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "GET /session/7e354a844b6fdac6fec820ad0cb79cf4/window/handles HTTP/1.1" 200 143
+2020-06-25 10:25:26,483 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/window HTTP/1.1" 200 14
+2020-06-25 10:25:31,485 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 10:25:34,188 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/url HTTP/1.1" 200 14
+2020-06-25 10:25:34,214 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/element HTTP/1.1" 200 88
+2020-06-25 10:25:39,242 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:65132 "POST /session/7e354a844b6fdac6fec820ad0cb79cf4/execute/sync HTTP/1.1" 200 14
+2020-06-25 10:25:39,243 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2020-06-25 10:31:34,977 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:49859
+2020-06-25 10:31:38,035 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:49859 "POST /session HTTP/1.1" 200 716
+2020-06-25 10:31:38,043 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 10:31:46,354 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:49859 "POST /session/60caadace45aa4aa963e1aa668065e3a/url HTTP/1.1" 200 14
+2020-06-25 10:31:46,394 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:49859 "POST /session/60caadace45aa4aa963e1aa668065e3a/element HTTP/1.1" 200 88
+2020-06-25 10:31:51,412 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:49859 "POST /session/60caadace45aa4aa963e1aa668065e3a/execute/sync HTTP/1.1" 200 14
+2020-06-25 10:31:51,413 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2020-06-25 10:33:43,417 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50165
+2020-06-25 10:33:46,623 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "POST /session HTTP/1.1" 200 717
+2020-06-25 10:33:50,497 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "POST /session/9444c43e73caaf9382e4605f833f9bac/url HTTP/1.1" 200 14
+2020-06-25 10:33:50,522 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "POST /session/9444c43e73caaf9382e4605f833f9bac/element HTTP/1.1" 200 88
+2020-06-25 10:33:50,637 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "POST /session/9444c43e73caaf9382e4605f833f9bac/element/a71bf4af-22b5-41d6-8769-ed9f631ce983/click HTTP/1.1" 200 14
+2020-06-25 10:33:55,639 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "GET /session/9444c43e73caaf9382e4605f833f9bac/window HTTP/1.1" 200 53
+2020-06-25 10:33:55,682 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "POST /session/9444c43e73caaf9382e4605f833f9bac/window HTTP/1.1" 200 14
+2020-06-25 10:34:00,688 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "GET /session/9444c43e73caaf9382e4605f833f9bac/window/handles HTTP/1.1" 200 99
+2020-06-25 10:34:00,711 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50165 "POST /session/9444c43e73caaf9382e4605f833f9bac/window HTTP/1.1" 200 14
+2020-06-25 10:34:44,053 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:50337
+2020-06-25 10:34:47,404 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "POST /session HTTP/1.1" 200 716
+2020-06-25 10:34:56,274 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "POST /session/f5fd582232d757f78a2af9e0ef7d53e0/url HTTP/1.1" 200 14
+2020-06-25 10:34:56,298 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "POST /session/f5fd582232d757f78a2af9e0ef7d53e0/element HTTP/1.1" 200 88
+2020-06-25 10:34:56,396 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "POST /session/f5fd582232d757f78a2af9e0ef7d53e0/element/02e4ba72-f42e-4a17-9b8b-7340101ffcb1/click HTTP/1.1" 200 14
+2020-06-25 10:35:01,399 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "GET /session/f5fd582232d757f78a2af9e0ef7d53e0/window HTTP/1.1" 200 53
+2020-06-25 10:35:01,438 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "POST /session/f5fd582232d757f78a2af9e0ef7d53e0/window HTTP/1.1" 200 14
+2020-06-25 10:35:06,450 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "GET /session/f5fd582232d757f78a2af9e0ef7d53e0/window/handles HTTP/1.1" 200 99
+2020-06-25 10:35:06,473 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "POST /session/f5fd582232d757f78a2af9e0ef7d53e0/window HTTP/1.1" 200 14
+2020-06-25 10:35:09,506 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:50337 "POST /session/f5fd582232d757f78a2af9e0ef7d53e0/element HTTP/1.1" 404 1095
+2020-06-25 11:31:13,428 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56189
+2020-06-25 11:31:16,642 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "POST /session HTTP/1.1" 200 716
+2020-06-25 11:31:18,916 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "POST /session/655049cbb367ac6ecb7294f39eac56d1/url HTTP/1.1" 200 14
+2020-06-25 11:31:18,935 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "POST /session/655049cbb367ac6ecb7294f39eac56d1/element HTTP/1.1" 200 88
+2020-06-25 11:31:19,044 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "POST /session/655049cbb367ac6ecb7294f39eac56d1/element/f689085f-4677-48e1-aa61-30b9584e8551/click HTTP/1.1" 200 14
+2020-06-25 11:31:24,046 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "GET /session/655049cbb367ac6ecb7294f39eac56d1/window HTTP/1.1" 200 53
+2020-06-25 11:31:24,073 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "POST /session/655049cbb367ac6ecb7294f39eac56d1/window HTTP/1.1" 200 14
+2020-06-25 11:31:29,078 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "GET /session/655049cbb367ac6ecb7294f39eac56d1/window/handles HTTP/1.1" 200 99
+2020-06-25 11:31:29,103 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "POST /session/655049cbb367ac6ecb7294f39eac56d1/window HTTP/1.1" 200 14
+2020-06-25 11:31:32,133 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56189 "POST /session/655049cbb367ac6ecb7294f39eac56d1/element HTTP/1.1" 404 1095
+2020-06-25 11:32:22,694 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56364
+2020-06-25 11:32:25,900 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56364 "POST /session HTTP/1.1" 200 716
+2020-06-25 11:32:56,898 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:56452
+2020-06-25 11:33:00,156 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56452 "POST /session HTTP/1.1" 200 717
+2020-06-25 11:33:00,163 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 11:33:03,897 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56452 "POST /session/b9d353303412da4b1fd49a6ab6badb9e/url HTTP/1.1" 200 14
+2020-06-25 11:33:03,919 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56452 "POST /session/b9d353303412da4b1fd49a6ab6badb9e/element HTTP/1.1" 200 88
+2020-06-25 11:33:08,936 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:56452 "POST /session/b9d353303412da4b1fd49a6ab6badb9e/execute/sync HTTP/1.1" 200 14
+2020-06-25 11:33:08,937 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2020-06-25 12:11:04,471 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:60678
+2020-06-25 12:11:07,976 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60678 "POST /session HTTP/1.1" 200 716
+2020-06-25 12:11:07,983 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 12:11:10,206 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60678 "POST /session/e4328177c703f70a22d8f4135d852351/url HTTP/1.1" 200 14
+2020-06-25 12:11:10,232 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60678 "POST /session/e4328177c703f70a22d8f4135d852351/element HTTP/1.1" 200 88
+2020-06-25 12:11:15,259 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:60678 "POST /session/e4328177c703f70a22d8f4135d852351/execute/sync HTTP/1.1" 200 14
+2020-06-25 12:11:15,260 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2020-06-25 12:24:46,199 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62109
+2020-06-25 12:24:49,532 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62109 "POST /session HTTP/1.1" 200 716
+2020-06-25 12:24:49,539 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 12:24:51,747 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62109 "POST /session/12e62790c62e4a00fed1842ab34b0982/url HTTP/1.1" 200 14
+2020-06-25 12:24:51,778 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62109 "POST /session/12e62790c62e4a00fed1842ab34b0982/element HTTP/1.1" 200 88
+2020-06-25 12:24:56,802 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62109 "POST /session/12e62790c62e4a00fed1842ab34b0982/execute/sync HTTP/1.1" 200 14
+2020-06-25 12:24:56,803 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2020-06-25 12:25:36,701 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:62221
+2020-06-25 12:25:40,089 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session HTTP/1.1" 200 717
+2020-06-25 12:25:42,325 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/url HTTP/1.1" 200 14
+2020-06-25 12:25:42,365 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/element HTTP/1.1" 200 88
+2020-06-25 12:25:42,509 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/element/1bc372af-b319-4b6b-8fbf-e180f82806fc/click HTTP/1.1" 200 14
+2020-06-25 12:25:52,510 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "GET /session/da92b73e0e268fcac4307ea02207bfae/window HTTP/1.1" 200 53
+2020-06-25 12:25:52,543 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/window HTTP/1.1" 200 14
+2020-06-25 12:25:54,563 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/element HTTP/1.1" 200 88
+2020-06-25 12:25:54,669 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/element/acc29585-c76b-4487-b440-d196a773999a/click HTTP/1.1" 200 14
+2020-06-25 12:25:54,681 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "GET /session/da92b73e0e268fcac4307ea02207bfae/window/handles HTTP/1.1" 200 143
+2020-06-25 12:25:54,721 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/window HTTP/1.1" 200 14
+2020-06-25 12:25:59,723 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 12:26:01,424 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/url HTTP/1.1" 200 14
+2020-06-25 12:26:01,447 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/element HTTP/1.1" 200 88
+2020-06-25 12:26:06,467 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:62221 "POST /session/da92b73e0e268fcac4307ea02207bfae/execute/sync HTTP/1.1" 200 14
+2020-06-25 12:26:06,468 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2020-06-25 12:35:41,140 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): 127.0.0.1:63469
+2020-06-25 12:35:44,749 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session HTTP/1.1" 200 716
+2020-06-25 12:35:48,497 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/url HTTP/1.1" 200 14
+2020-06-25 12:35:48,523 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/element HTTP/1.1" 200 88
+2020-06-25 12:35:48,628 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/element/b65e5897-7e8d-44eb-a9de-74d26ddd4796/click HTTP/1.1" 200 14
+2020-06-25 12:35:58,631 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "GET /session/51f5afcd2c7f80f9c6dc3959d2cffeda/window HTTP/1.1" 200 53
+2020-06-25 12:35:58,656 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/window HTTP/1.1" 200 14
+2020-06-25 12:36:00,674 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/element HTTP/1.1" 200 88
+2020-06-25 12:36:00,777 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/element/40a284bf-0b23-4da2-beaa-ef7cf6ad9cc8/click HTTP/1.1" 200 14
+2020-06-25 12:36:00,783 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "GET /session/51f5afcd2c7f80f9c6dc3959d2cffeda/window/handles HTTP/1.1" 200 143
+2020-06-25 12:36:00,825 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/window HTTP/1.1" 200 14
+2020-06-25 12:36:05,827 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2020-06-25 12:36:08,494 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/url HTTP/1.1" 200 14
+2020-06-25 12:36:08,517 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/element HTTP/1.1" 200 88
+2020-06-25 12:36:13,542 [connectionpool._make_request]: - DEBUG - http://127.0.0.1:63469 "POST /session/51f5afcd2c7f80f9c6dc3959d2cffeda/execute/sync HTTP/1.1" 200 14
+2020-06-25 12:36:13,542 [pp_login_page_tests.test_pp_homepage]: - INFO - end of test_login_pp
+2023-03-10 14:31:19,814 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-03-10 14:31:19,815 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-03-10 14:31:21,477 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-10 14:31:21,977 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 6980
+2023-03-10 14:31:22,493 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:49252
+2023-03-10 14:31:23,237 [connectionpool._make_request]: - DEBUG - http://localhost:49252 "POST /session HTTP/1.1" 200 792
+2023-03-10 14:31:31,594 [connectionpool._make_request]: - DEBUG - http://localhost:49252 "POST /session/53ee97a095e16d087c93db7c59f7d069/url HTTP/1.1" 500 1061
+2023-03-10 14:31:31,614 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-03-10 14:31:39,811 [connectionpool._make_request]: - DEBUG - http://localhost:49252 "POST /session/53ee97a095e16d087c93db7c59f7d069/url HTTP/1.1" 500 1061
+2023-03-10 14:32:57,648 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-03-10 14:32:57,650 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-03-10 14:32:57,876 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-10 14:32:58,353 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 15516
+2023-03-10 14:32:58,879 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:49298
+2023-03-10 14:32:59,602 [connectionpool._make_request]: - DEBUG - http://localhost:49298 "POST /session HTTP/1.1" 200 793
+2023-03-10 14:33:01,791 [connectionpool._make_request]: - DEBUG - http://localhost:49298 "POST /session/443c8648e902cca30524faa2a81a82d4/url HTTP/1.1" 200 14
+2023-03-10 14:33:01,798 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-03-10 14:33:03,283 [connectionpool._make_request]: - DEBUG - http://localhost:49298 "POST /session/443c8648e902cca30524faa2a81a82d4/url HTTP/1.1" 200 14
+2023-03-10 14:54:08,566 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-03-10 14:54:08,567 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-03-10 14:54:08,915 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-10 14:54:09,137 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 11684
+2023-03-10 14:54:09,665 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:49724
+2023-03-10 14:54:10,390 [connectionpool._make_request]: - DEBUG - http://localhost:49724 "POST /session HTTP/1.1" 200 794
+2023-03-10 14:54:12,540 [connectionpool._make_request]: - DEBUG - http://localhost:49724 "POST /session/9003643fd1fa0cd7640654906850b5bb/url HTTP/1.1" 200 14
+2023-03-10 14:54:12,546 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-03-10 14:54:13,986 [connectionpool._make_request]: - DEBUG - http://localhost:49724 "POST /session/9003643fd1fa0cd7640654906850b5bb/url HTTP/1.1" 200 14
+2023-03-10 15:03:00,416 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-03-10 15:03:00,416 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-03-10 15:03:00,641 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-10 15:03:00,646 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 10448
+2023-03-10 15:03:01,181 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:49788
+2023-03-10 15:03:01,811 [connectionpool._make_request]: - DEBUG - http://localhost:49788 "POST /session HTTP/1.1" 200 794
+2023-03-10 15:03:04,220 [connectionpool._make_request]: - DEBUG - http://localhost:49788 "POST /session/3dfd83b938775fd1792f4dbf0b3c6a3c/url HTTP/1.1" 200 14
+2023-03-10 15:03:04,224 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-03-10 15:03:05,663 [connectionpool._make_request]: - DEBUG - http://localhost:49788 "POST /session/3dfd83b938775fd1792f4dbf0b3c6a3c/url HTTP/1.1" 200 14
+2023-03-10 15:03:16,871 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-03-10 15:03:16,872 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-03-10 15:03:17,016 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-10 15:03:17,022 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 12748
+2023-03-10 15:03:17,536 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:49824
+2023-03-10 15:03:18,110 [connectionpool._make_request]: - DEBUG - http://localhost:49824 "POST /session HTTP/1.1" 200 793
+2023-03-10 15:03:21,997 [connectionpool._make_request]: - DEBUG - http://localhost:49824 "POST /session/c60f994a20d7d7f81075c53042357958/url HTTP/1.1" 200 14
+2023-03-10 15:03:22,000 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-03-10 15:04:03,915 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-03-10 15:04:03,915 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-03-10 15:04:04,093 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-10 15:04:04,098 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 13272
+2023-03-10 15:04:04,621 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:49864
+2023-03-10 15:04:05,242 [connectionpool._make_request]: - DEBUG - http://localhost:49864 "POST /session HTTP/1.1" 200 793
+2023-03-10 15:04:09,031 [connectionpool._make_request]: - DEBUG - http://localhost:49864 "POST /session/98aa0edd931045557221aad0a6e6d62a/url HTTP/1.1" 200 14
+2023-03-10 15:04:09,034 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-03-10 15:04:10,788 [connectionpool._make_request]: - DEBUG - http://localhost:49864 "POST /session/98aa0edd931045557221aad0a6e6d62a/url HTTP/1.1" 200 14
+2023-03-10 15:20:54,173 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-03-10 15:20:54,173 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-03-10 15:20:54,838 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\110.0.5481.77\chromedriver.exe
+2023-03-10 15:20:55,128 [service._start_process]: - DEBUG - Started executable: `chromedriver` in a child process with pid: 7372
+2023-03-10 15:20:55,659 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:50100
+2023-03-10 15:20:56,497 [connectionpool._make_request]: - DEBUG - http://localhost:50100 "POST /session HTTP/1.1" 200 793
+2023-03-10 15:20:59,863 [connectionpool._make_request]: - DEBUG - http://localhost:50100 "POST /session/12210b89feb8243d709d7cc07f1ae8b6/url HTTP/1.1" 200 14
+2023-03-10 15:20:59,870 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-03-10 15:21:01,815 [connectionpool._make_request]: - DEBUG - http://localhost:50100 "POST /session/12210b89feb8243d709d7cc07f1ae8b6/url HTTP/1.1" 200 14
+2023-04-20 22:08:39,518 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-04-20 22:08:39,519 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-04-20 22:08:39,936 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-20 22:08:40,932 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 13180
+2023-04-20 22:08:41,517 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:52392
+2023-04-20 22:08:42,534 [connectionpool._make_request]: - DEBUG - http://localhost:52392 "POST /session HTTP/1.1" 200 862
+2023-04-20 22:08:48,737 [connectionpool._make_request]: - DEBUG - http://localhost:52392 "POST /session/139e7a50beeecac2eb8d88c8543c5db4/url HTTP/1.1" 200 14
+2023-04-20 22:08:48,795 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-04-20 22:08:50,149 [connectionpool._make_request]: - DEBUG - http://localhost:52392 "POST /session/139e7a50beeecac2eb8d88c8543c5db4/url HTTP/1.1" 200 14
+2023-04-21 13:20:09,948 [service.start]: - DEBUG - driver not found in PATH, trying Selenium Manager
+2023-04-21 13:20:09,949 [selenium_manager.run]: - DEBUG - Executing: C:\Users\gopinath\AppData\Roaming\Python\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+2023-04-21 13:20:10,088 [selenium_manager.driver_location]: - DEBUG - Using driver at: C:\Users\gopinath\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-21 13:20:10,093 [service._start_process]: - DEBUG - Started executable: `C:\webdriver\chromedriver.exe` in a child process with pid: 14228
+2023-04-21 13:20:10,604 [connectionpool._new_conn]: - DEBUG - Starting new HTTP connection (1): localhost:50534
+2023-04-21 13:20:11,152 [connectionpool._make_request]: - DEBUG - http://localhost:50534 "POST /session HTTP/1.1" 200 862
+2023-04-21 13:20:14,503 [connectionpool._make_request]: - DEBUG - http://localhost:50534 "POST /session/a11dca0507a7084eed260b0d7a2159f4/url HTTP/1.1" 200 14
+2023-04-21 13:20:14,506 [pp_login_page_tests.test_pp_homepage]: - INFO - start of test_login_pp 
+2023-04-21 13:20:15,739 [connectionpool._make_request]: - DEBUG - http://localhost:50534 "POST /session/a11dca0507a7084eed260b0d7a2159f4/url HTTP/1.1" 200 14
